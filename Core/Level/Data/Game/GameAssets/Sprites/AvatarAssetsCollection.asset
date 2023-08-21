@@ -1,0 +1,380 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe1316b11517004fb22bea3adbd666d, type: 3}
+  m_Name: AvatarAssetsCollection
+  m_EditorClassIdentifier: 
+  Label: Avatar
+  Collection:
+  - Id: AVA_DEFAULT_01
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_Icon_Avatar
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_02
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AVA_RewardLevel_Lobby1
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_03
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_AstroPlinko1
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_04
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_AstroPlinko2
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_05
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_AstroPlinko3
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_06
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_AstroPlinko4
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_07
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_AstroPlinko5
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_08
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_AstroPlinko6
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_09
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_AstroPlinko7
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_10
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_AstroPlinko8
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_11
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_AstroPlinko9
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_12
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_AstroPlinko10
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_13
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_AstroPlinko11
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_14
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_AstroPlinko12
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_15
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_AstroPlinko13
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_16
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_Starmatch1
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_17
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_Starmatch2
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_18
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_Starmatch3
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_19
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_Starmatch4
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_20
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_Starmatch5
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_21
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_Starmatch6
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_22
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_Starmatch7
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_23
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_Starmatch8
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_24
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_Starmatch9
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_25
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_WishfulWonders1
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_26
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_WishfulWonders2
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_27
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_WishfulWonders3
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_28
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_WishfulWonders4
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_29
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_WishfulWonders5
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_30
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_WishfulWonders6
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_31
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_WishfulWonders7
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_32
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_WishfulWonders8
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_DEFAULT_33
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_WishfulWonders9
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_PAID_01
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_Paid_1
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_PAID_02
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_Paid_2
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_PAID_03
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_Paid_3
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_PAID_04
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_Paid_4
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_PAID_05
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_Paid_5
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_PAID_06
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AV_Paid_6
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_RewardLevel_70
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AVA_RewardLevel_70
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_RewardLevel_85
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AVA_RewardLevel_85
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_RewardLevel_100
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AVA_RewardLevel_100
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_RewardLevel_150
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AVA_RewardLevel_150
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_RewardLevel_400
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AVA_RewardLevel_400
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_RewardLevel_450
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AVA_RewardLevel_450
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_RewardLevel_500
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AVA_RewardLevel_500
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_RewardLevel_550
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AVA_RewardLevel_550
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_RewardLevel_800
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AVA_RewardLevel_800
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_RewardLevel_850
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AVA_RewardLevel_850
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_RewardLevel_900
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AVA_RewardLevel_900
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_RewardLevel_950
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AVA_RewardLevel_950
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: AVA_RewardLevel_1000
+    Reference:
+      m_AssetGUID: a451bdcfe3c7da848a2d923fc330ddee
+      m_SubObjectName: T_AVA_RewardLevel_1000
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0

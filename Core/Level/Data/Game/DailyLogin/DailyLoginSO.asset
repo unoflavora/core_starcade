@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d67cd6145345c9c42960643acc30d098, type: 3}
+  m_Name: DailyLoginSO
+  m_EditorClassIdentifier: 
+  RewardSpriteData: {fileID: 11400000, guid: 108dab604948d8d4d93fcb244e1fab56, type: 2}
+  _lootBox: {fileID: 11400000, guid: 80e40b353a9cac84fbebb537c7026e37, type: 2}
+  _lootBoxBackground: {fileID: 21300000, guid: fa7faefdbd50a9f43adecfeea9066d22, type: 3}
+  _lootBoxDayHeader: {fileID: 2119065081, guid: 91799c36251a1b04587c39ec1cd17e5f, type: 3}
+  _petBackground: {fileID: 21300000, guid: 5c379f777437614439ff4fbd4662cc96, type: 3}
+  _petDayHeader: {fileID: -1311867637, guid: cc0f1d8d05bb70e42b52f0c9bdd400de, type: 3}
+  _currencyBackground: {fileID: 21300000, guid: e4df8c10643b7d040bee5f38b0b27001, type: 3}
+  _currencyDayHeader: {fileID: -756362996, guid: 6e2a801382c45e54c9be7e3d67ff3af7, type: 3}

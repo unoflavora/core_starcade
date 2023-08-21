@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Starcade/Core/Scripts/Runtime/Starcade.Core.Runtime.asmdef.meta
+guid: f032df70323c7d14b92c0b065c42df3f
+AssemblyDefinitionImporter:
+========
+guid: d229d24a42c2a434b89b396177048d2a
+folderAsset: yes
+DefaultImporter:
+>>>>>>>> ad137fd8b (Implement Localizations of Pet Subskills and Adventure Box):Assets/Starcade/Core/Level/Data/Localizations/Asset Tables/Pet Adventure Box.meta
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

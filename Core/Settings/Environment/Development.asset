@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 344cd324f9a14c5b80e30072479637b7, type: 3}
+  m_Name: Development
+  m_EditorClassIdentifier: 
+  IdentityBaseUrl: https://identity-api-2283-dev.agatedev.net/
+  GameBaseUrl: https://game-api-starcade-dev.agatedev.net/
+  ExternalBaseUrl: https://game-external-api-starcade-dev.agatedev.net/
+  BasicToken: starcade_game_platform:YWRpX2dhbWVfY2xpZW50X3Nr
+  EnableDebugLogViewer: 1
+  EnableVersionCheck: 1
+  ForceUseRemoteConfig: 0
+  IsConnectToHeadless: 0
+  RoomAllocationBaseUrl: https://agones-api-2682-starcade-agones-allocation-service-development.agatedev.net
+  HeadlessUrl: localhost
+  CP02GameBaseUrl: http://34.126.156.62:8080/
+  RPSGameBaseUrl: http://34.126.156.62:8081/api/rps/
+  IsSkipLootboxEnabled: 1

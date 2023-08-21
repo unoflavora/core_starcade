@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a97c7d0a71e442a9aae823a1f993dd2, type: 3}
+  m_Name: StarmatchAudioCollection
+  m_EditorClassIdentifier: 
+  LabelCollection: starmatch_audio
+  NewBgmCollection:
+  - id: bgm_matchthree
+    audioReference:
+      m_AssetGUID: 02e5627ef15f7744ca2937be8bbcdb41
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: starmatch_audio
+  NewSfxCollection:
+  - id: match_three_spin
+    audioReference:
+      m_AssetGUID: 0639600a3f782f443b2eb374747836a8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: starmatch_audio
+  - id: match_three_drop
+    audioReference:
+      m_AssetGUID: bb49682db466da64b94c3103233bad5b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: starmatch_audio
+  - id: match_three_matched
+    audioReference:
+      m_AssetGUID: 1bb9423bbafc0d6468bf679147727f7d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: starmatch_audio
+  - id: match_three_alphabetJackpot
+    audioReference:
+      m_AssetGUID: f2207b695a41fd048970f7a901b79aed
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: starmatch_audio
+  - id: match_three_symbolJackpot
+    audioReference:
+      m_AssetGUID: a7a05e95641a54b478a4e4d4804a21ee
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: starmatch_audio
+  - id: match_three_alphabet
+    audioReference:
+      m_AssetGUID: e2907c9018c302645a0547f354037c31
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: starmatch_audio
+  - id: roulette_spin
+    audioReference:
+      m_AssetGUID: e29878a011fb0234a966a9a56f71bf5e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: starmatch_audio
+  - id: roulette_start_spin
+    audioReference:
+      m_AssetGUID: f5fd237052e67294b8c72f15937279ba
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: starmatch_audio
+  - id: match_three_reward_jackpot_notification
+    audioReference:
+      m_AssetGUID: 23883171bda03b047ac82bb41778ebeb
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: starmatch_audio
+  - id: SFXMM_011_DingReward
+    audioReference:
+      m_AssetGUID: 3f2a74d7bead9d6489e3443ff67e1fda
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: starmatch_audio

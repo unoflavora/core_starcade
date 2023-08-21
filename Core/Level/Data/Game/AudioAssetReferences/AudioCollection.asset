@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a97c7d0a71e442a9aae823a1f993dd2, type: 3}
+  m_Name: AudioCollection
+  m_EditorClassIdentifier: 
+  BgmCollection:
+  - id: bgm_title
+    audioClip: {fileID: 8300000, guid: d5b094ed446d5a04ba2972050f4955ba, type: 3}
+  - id: bgm_lobby
+    audioClip: {fileID: 8300000, guid: 2e67e8f8448ff4c4cba54c4f7ae140f3, type: 3}
+  - id: bgm_plinko
+    audioClip: {fileID: 8300000, guid: 8938b61540e37a14aa532f85ee1cd224, type: 3}
+  - id: bgm_matchthree
+    audioClip: {fileID: 8300000, guid: 02e5627ef15f7744ca2937be8bbcdb41, type: 3}
+  - id: BGM_Monstamatch
+    audioClip: {fileID: 8300000, guid: d6440dc9eccb895448f171ac66268636, type: 3}
+  SfxCollection:
+  - id: button_general
+    audioClip: {fileID: 8300000, guid: 388c4c041f4afcf4a9bf380981e0df2a, type: 3}
+  - id: button_negative
+    audioClip: {fileID: 8300000, guid: 8f680fa8c448fb14d9cc844a6fdb8e82, type: 3}
+  - id: button_play
+    audioClip: {fileID: 8300000, guid: 080294830811f1a488ad03ec8086535a, type: 3}
+  - id: button_tab
+    audioClip: {fileID: 8300000, guid: 2ddb0dd42e8c1cc4f9df15f04ce90eef, type: 3}
+  - id: button_unavailable
+    audioClip: {fileID: 8300000, guid: 8f680fa8c448fb14d9cc844a6fdb8e82, type: 3}
+  - id: menu_closed
+    audioClip: {fileID: 8300000, guid: 75c216559fd2e66419d10ac12a70f397, type: 3}
+  - id: menu_open
+    audioClip: {fileID: 8300000, guid: f25b4ded4bb187149bec1a8b964ce96b, type: 3}
+  - id: notification_coin
+    audioClip: {fileID: 8300000, guid: d743e17e32c3a044a8a0231acf5b0819, type: 3}
+  - id: ball_bounce
+    audioClip: {fileID: 8300000, guid: 9970994dd96b32a4b81524b1c62b0490, type: 3}
+  - id: ball_launch
+    audioClip: {fileID: 8300000, guid: e8e14993c1946ae42abd5ce7c9e1e4b9, type: 3}
+  - id: goal_normal
+    audioClip: {fileID: 8300000, guid: f6d3a2b15d8e1b243b15e4e7cdd1100c, type: 3}
+  - id: goal_jackpot
+    audioClip: {fileID: 8300000, guid: 257fa3c497f473b4e8c7aef01e33c31c, type: 3}
+  - id: jackpot_popup
+    audioClip: {fileID: 8300000, guid: 79cf85520a664f645a89abc9d31795f6, type: 3}
+  - id: change_coin
+    audioClip: {fileID: 8300000, guid: 9093dac261a5e2743b7b7251809bbb42, type: 3}
+  - id: reward_coin
+    audioClip: {fileID: 8300000, guid: 145b509f2e6ae6e4a88e406a69609ba8, type: 3}
+  - id: roulette_spin
+    audioClip: {fileID: 8300000, guid: e29878a011fb0234a966a9a56f71bf5e, type: 3}
+  - id: sfx_jackpot
+    audioClip: {fileID: 8300000, guid: b3a0c6298b17d7149afc30a7b0bc7958, type: 3}
+  - id: sfx_star_roulette
+    audioClip: {fileID: 8300000, guid: 55a95f1546915664b86f29a7f9093821, type: 3}
+  - id: sfx_symbol_roulette
+    audioClip: {fileID: 8300000, guid: 70eb26e742e96894093a4c693915961a, type: 3}
+  - id: ui_notification_plinko
+    audioClip: {fileID: 8300000, guid: d4abaaf65b5c3624797709f0f199c9e9, type: 3}
+  - id: balance_counting_loop
+    audioClip: {fileID: 8300000, guid: 05dc0128481c08747a8afe4d94217fb8, type: 3}
+  - id: balance_counting_end
+    audioClip: {fileID: 8300000, guid: 0059396a7d39b284aa52272bb4147633, type: 3}
+  - id: balance_counting_once
+    audioClip: {fileID: 8300000, guid: 0bed6fbf87160cc4fafdc03ea3b7888b, type: 3}
+  - id: roulette_reward
+    audioClip: {fileID: 8300000, guid: ffe633a18868d14498f9217de3144198, type: 3}
+  - id: roulette_reward_burst
+    audioClip: {fileID: 8300000, guid: c4a37a8c59bd716478dea26f858a5c3c, type: 3}
+  - id: roulette_start_spin
+    audioClip: {fileID: 8300000, guid: f5fd237052e67294b8c72f15937279ba, type: 3}
+  - id: match_three_spin
+    audioClip: {fileID: 8300000, guid: 0639600a3f782f443b2eb374747836a8, type: 3}
+  - id: match_three_drop
+    audioClip: {fileID: 8300000, guid: bb49682db466da64b94c3103233bad5b, type: 3}
+  - id: match_three_matched
+    audioClip: {fileID: 8300000, guid: 1bb9423bbafc0d6468bf679147727f7d, type: 3}
+  - id: match_three_progressJackpot
+    audioClip: {fileID: 8300000, guid: 23883171bda03b047ac82bb41778ebeb, type: 3}
+  - id: match_three_alphabetJackpot
+    audioClip: {fileID: 8300000, guid: f2207b695a41fd048970f7a901b79aed, type: 3}
+  - id: match_three_symbolJackpot
+    audioClip: {fileID: 8300000, guid: a7a05e95641a54b478a4e4d4804a21ee, type: 3}
+  - id: match_three_alphabet
+    audioClip: {fileID: 8300000, guid: e2907c9018c302645a0547f354037c31, type: 3}
+  - id: SFXMM_001_ButtonStart
+    audioClip: {fileID: 8300000, guid: 9a29af0674fe2724b8ba3f66e33e392e, type: 3}
+  - id: SFXMM_002_ObjectShattered
+    audioClip: {fileID: 8300000, guid: 3f30d61873bbc7c40a5d7fc7099177c1, type: 3}
+  - id: SFXMM_003_1E_(1)
+    audioClip: {fileID: 8300000, guid: db5df8df754193645a403ebc766f3823, type: 3}
+  - id: SFXMM_003_b2F_(2)
+    audioClip: {fileID: 8300000, guid: 2ca84e07084d322489137c825d77ec32, type: 3}
+  - id: SFXMM_003_3G#_(3)
+    audioClip: {fileID: 8300000, guid: 11e08958cd4e51d41b5ace62a82d772b, type: 3}
+  - id: SFXMM_003_4A_(4)
+    audioClip: {fileID: 8300000, guid: 5312bd0acd267ad48ae434173abbab01, type: 3}
+  - id: SFXMM_003_5B_(5)
+    audioClip: {fileID: 8300000, guid: 4e6f9c7c6aa2c3141b0a616371f0d7fd, type: 3}
+  - id: SFXMM_003_b6C_(6)
+    audioClip: {fileID: 8300000, guid: f0371b5c39c792d4a825a487da0a6e6f, type: 3}
+  - id: SFXMM_003_b7D_(7)
+    audioClip: {fileID: 8300000, guid: 6af4462c65c975b4db7a84ca341beddd, type: 3}
+  - id: SFXMM_003_ie_(i)
+    audioClip: {fileID: 8300000, guid: 98f4ff06ff72c844194f755cf15d114c, type: 3}
+  - id: SFXMM_004_PuzzleJackpot_NotificationReward
+    audioClip: {fileID: 8300000, guid: a3307e6f8ce53a84aa8becc58afb71d0, type: 3}
+  - id: SFXMM_005_PuzzlePieces
+    audioClip: {fileID: 8300000, guid: 2e3caf6e01ce2634cbe358f243475f46, type: 3}
+  - id: SFXMM_005_PuzzlePieces
+    audioClip: {fileID: 8300000, guid: 2e3caf6e01ce2634cbe358f243475f46, type: 3}
+  - id: SFXMM_006_SpecialCoin_NotificationReward
+    audioClip: {fileID: 8300000, guid: 468206759a8a7884f8c0aef3c35dbb9e, type: 3}
+  - id: SFXMM_007_SpecialCoin_Reach
+    audioClip: {fileID: 8300000, guid: e747a1cd6e9685842953a588c19ffbef, type: 3}
+  - id: SFXMM_008_MiniGame_NotificationReward
+    audioClip: {fileID: 8300000, guid: e6ef732580ca0f144afa307cf50ef75d, type: 3}
+  - id: SFXMM_009_TreasureDiscovered
+    audioClip: {fileID: 8300000, guid: eb4eb5d695e47e641b2dc119c065b174, type: 3}
+  - id: SFXMM_010_GenieWish
+    audioClip: {fileID: 8300000, guid: 6b3b14c09cd182744b00425010e88a05, type: 3}
+  - id: SFXMM_011_DingReward
+    audioClip: {fileID: 8300000, guid: 3f2a74d7bead9d6489e3443ff67e1fda, type: 3}
+  - id: SFXMM_012_MiniGame1_Reward
+    audioClip: {fileID: 8300000, guid: 46253f702a8dc484ab20a165524a1e10, type: 3}
+  - id: SFXMM_013_ScepterImpact
+    audioClip: {fileID: 8300000, guid: 630ab8c4f52086e4abd0a22a0a08c202, type: 3}
+  - id: SFXMM_014_MonsterHit
+    audioClip: {fileID: 8300000, guid: cf1e7db649087334cae346be92a3e0b1, type: 3}
+  - id: SFXMM_015_AbracadabraMIX
+    audioClip: {fileID: 8300000, guid: 1b92492ad6558f246829f1efc624ca88, type: 3}
+  - id: SFXMM_016_LightsRouletteMonsterReward
+    audioClip: {fileID: 8300000, guid: 2a5e72cfca28e2547a1b1704cc3aa0bd, type: 3}
+  - id: SFXMM_017_ScepterShoot
+    audioClip: {fileID: 8300000, guid: 2a5e72cfca28e2547a1b1704cc3aa0bd, type: 3}

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Pet Descriptions_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4a935a9959ab9b04c89369f91faeef58, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 24409059328
+    m_Localized: Pluppins is an adorable creature resembling a delightful parfait
+      come to life! Its head adorned with a macaron hat and delicate banana wings
+      make it utterly endearing. This pet emits an irresistible sweet scent that
+      attracts both humans and other creatures alike. With its caring and playful
+      nature, Pluppins spreads joy wherever it goes, making it an ideal companion
+      for trainers seeking a delightful friend. If you encounter this dessert-themed
+      wonder on your journey, be sure to share a sweet treat and expect a warm reception
+      from this charming Pet!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50510213120
+    m_Localized: Pokemen is an adorable creature resembling a delightful parfait
+      come to life! Its most enchanting feature is its long, spiral churro tail that
+      glimmers like sugary gold in the sunlight. With a caring and playful nature,
+      Pokemen spreads joy wherever it goes, leaving all entranced by its churro charm.
+      Trainers who befriend this dessert-themed wonder will surely experience the
+      warm embrace of its delightful churro tail!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

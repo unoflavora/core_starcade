@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09c18250fba54ffe9195c540d6d8ac89, type: 3}
+  m_Name: Binding Google
+  m_EditorClassIdentifier: 
+  PosterId: bind_account
+  PosterSprite: {fileID: 21300000, guid: d5ec12768d6369b4a8287ad73f39b11d, type: 3}
+  InfoPopUpType: 10
+  PosterAction: 1
+  PosterActionData:
+    PosterActionStringData: 
+    PosterActionIntData: 0
+    PosterActionFloatData: 0
+    PosterActionAssetData:
+      m_AssetGUID: fca20b4e5101dc64babbb64c489082c6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PosterActionObjectData: {fileID: 102900000, guid: fca20b4e5101dc64babbb64c489082c6, type: 3}
+    PosterActionScenePath: Assets/Starcade/Core/Level/Scenes/Lobby/UserProfile.unity
+  IsClaimableOnClickPoster: 0
+  IsComingSoon: 0
+  IsDontHaveReward: 0

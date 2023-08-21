@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bc34152da2db074dbedf1df2b5a6a9c, type: 3}
+  m_Name: Event_Monstamatch_44
+  m_EditorClassIdentifier: 
+  HideCharacter: 1
+  CharacterAnchoredPosition: {x: -4162.6, y: -450}
+  CharacterExpression: {fileID: 11400000, guid: 4619a64fce42a05469b00c1ee1459480, type: 2}
+  CharacterExpressionId: 1
+  IsFlipped: 0
+  DialogText: "If you haven\u2019t use all your chances but there are no beads left
+    to match, you need to tap the START button and start a new round."
+  HideDialog: 1
+  DialogWidthRatio: 0.25
+  DialogAnchoredPosition: {x: -5297.7, y: 150}
+  DialogAnchorMin: {x: 1, y: 0}
+  DialogAnchorMax: {x: 1, y: 0}
+  HighlightedObjectIndex: 19
+  InteractType: 4
+  Delay: 0

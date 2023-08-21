@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c4ff0e08781e3d4fb86c2fbdd9605eb, type: 3}
+  m_Name: Kaltsit
+  m_EditorClassIdentifier: 
+  ListCharacterExpression:
+  - Id: 0
+    Sprite: {fileID: 21300000, guid: 4c38a75d84535b143be5d81fa42aee7b, type: 3}
+  - Id: 1
+    Sprite: {fileID: 21300000, guid: 523b5c27c29b5b14b9161b6d42cb2dff, type: 3}
+  - Id: 2
+    Sprite: {fileID: 21300000, guid: d2070db7953ee0f4daa430e298cdaaaa, type: 3}
+  - Id: 3
+    Sprite: {fileID: 21300000, guid: f9d4111bba7b12047a27d376dd721817, type: 3}
+  - Id: 4
+    Sprite: {fileID: 21300000, guid: 41654969b6e403848968851ff9a30c6e, type: 3}
+  - Id: 5
+    Sprite: {fileID: 21300000, guid: ea95f3d4682cc2246b055b91c179d2f7, type: 3}

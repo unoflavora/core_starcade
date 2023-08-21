@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Starcade/Scripts/Runtime/Collectibles/Prefabs/Buttons/Primary Button.prefab.meta
+guid: 865ce4b8ac60fc8499cd12abf87370cc
+========
+guid: b5571a9bd0d1d16479ec5f0b35ac20ac
+>>>>>>>> origin/116-general-bugfix-and-adjustment:Assets/Starcade/Scripts/Runtime/Arcade/General.meta
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

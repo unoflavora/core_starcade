@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73a05aa8d45362e49b85477bc8ce54f5, type: 3}
+  m_Name: DailyLoginDummyData
+  m_EditorClassIdentifier: 
+  dailyLoginData:
+    SceneCallee: 
+    Key: 0
+    DayCount: 4
+    RewardList:
+    - Caption: 
+      Day: 1
+      RewardType: 3
+      Amount: 1
+      IsClaim: 2
+      Tier: 1
+      Ref: LBX_Set_1_Gold
+    - Caption: Pet
+      Day: 2
+      RewardType: 4
+      Amount: 1
+      IsClaim: 1
+      Tier: 4
+      Ref: pet_default
+    - Caption: Exclusive Pet
+      Day: 3
+      RewardType: 4
+      Amount: 1
+      IsClaim: 1
+      Tier: 2
+      Ref: pet_default
+    - Caption: 
+      Day: 4
+      RewardType: 0
+      Amount: 1000
+      IsClaim: 1
+      Tier: 0
+      Ref: 
+    - Caption: 
+      Day: 5
+      RewardType: 0
+      Amount: 100
+      IsClaim: 1
+      Tier: 0
+      Ref: 
+    - Caption: 
+      Day: 6
+      RewardType: 0
+      Amount: 1001
+      IsClaim: 1
+      Tier: 0
+      Ref: 
+    - Caption: Worth $5
+      Day: 7
+      RewardType: 3
+      Amount: 10021
+      IsClaim: 1
+      Tier: 4
+      Ref: 
+    Reward:
+      Caption: 
+      Day: 1
+      RewardType: 3
+      Amount: 1
+      IsClaim: 0
+      Tier: 1
+      Ref: LBX_Set_1_Gold
+    DailyLoginState: 1

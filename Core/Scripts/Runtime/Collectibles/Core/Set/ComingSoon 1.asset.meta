@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Starcade/Core/Arts/Textures/Lobby/Store/Lootbox/Legacy.meta
+guid: 3ec89911e8402c24787c7699b5abe611
+folderAsset: yes
+DefaultImporter:
+========
+guid: 8588c21bacd78134f8dd7d3c7b6fb1c5
+NativeFormatImporter:
+>>>>>>>> 75ac9d0bb (feat(collectible): implement dummy collectible):Assets/Starcade/Core/Scripts/Runtime/Collectibles/Core/Set/ComingSoon 1.asset.meta
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

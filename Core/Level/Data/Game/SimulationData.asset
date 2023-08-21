@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c183f87db0dddf42b7582232728e10c, type: 3}
+  m_Name: SimulationData
+  m_EditorClassIdentifier: 
+  ballPrice: 10000
+  jackpotRequirement: 500
+  totalReturn: 74177200
+  totalCost: 90000000
+  RTP: 82.41911
+  starcadeCount: 66
+  jackpotCount: 544
+  ballDropPoint: e8030000e8030000e8030000e8030000e8030000e8030000e8030000e8030000e8030000
+  goalEnteredBall:
+  - 821
+  - 1528
+  - 1346
+  - 703
+  - 119
+  - 714
+  - 1387
+  - 1576
+  - 806
+  probability:
+  - 9.122222
+  - 16.977777
+  - 14.955556
+  - 7.811111
+  - 1.3222222
+  - 7.9333334
+  - 15.411111
+  - 17.51111
+  - 8.955556
+  totalRewardPerGoal:
+  - 12315000
+  - 15280000
+  - 3365000
+  - 0
+  - 11900000
+  - 0
+  - 3467500
+  - 15760000
+  - 12090000

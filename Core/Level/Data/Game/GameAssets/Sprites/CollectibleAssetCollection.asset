@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe1316b11517004fb22bea3adbd666d, type: 3}
+  m_Name: CollectibleAssetCollection
+  m_EditorClassIdentifier: 
+  Label: Collectible
+  Collection:
+  - Id: CLB_TheCarnivalSet_01
+    Reference:
+      m_AssetGUID: 598175b7eacdbe04abb8dc7186e04778
+      m_SubObjectName: T_Collectibles_GrandOpening_RollerCoaster_Tier01
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: CLB_TheCarnivalSet_02
+    Reference:
+      m_AssetGUID: 598175b7eacdbe04abb8dc7186e04778
+      m_SubObjectName: T_Collectibles_GrandOpening_Popcorn_Tier01
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: CLB_TheCarnivalSet_03
+    Reference:
+      m_AssetGUID: 598175b7eacdbe04abb8dc7186e04778
+      m_SubObjectName: T_Collectibles_GrandOpening_JackInTheBox_Tier01
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: CLB_TheCarnivalSet_04
+    Reference:
+      m_AssetGUID: 598175b7eacdbe04abb8dc7186e04778
+      m_SubObjectName: T_Collectibles_GrandOpening_GiftBox_Tier01
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: CLB_TheCarnivalSet_05
+    Reference:
+      m_AssetGUID: 598175b7eacdbe04abb8dc7186e04778
+      m_SubObjectName: T_Collectibles_GrandOpening_Hat_Tier01
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: CLB_TheCarnivalSet_06
+    Reference:
+      m_AssetGUID: 598175b7eacdbe04abb8dc7186e04778
+      m_SubObjectName: T_Collectibles_GrandOpening_RollerCoaster_Tier02
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: CLB_TheCarnivalSet_07
+    Reference:
+      m_AssetGUID: 598175b7eacdbe04abb8dc7186e04778
+      m_SubObjectName: T_Collectibles_GrandOpening_Popcorn_Tier02
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: CLB_TheCarnivalSet_08
+    Reference:
+      m_AssetGUID: 598175b7eacdbe04abb8dc7186e04778
+      m_SubObjectName: T_Collectibles_GrandOpening_JackInTheBox_Tier02
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: CLB_TheCarnivalSet_09
+    Reference:
+      m_AssetGUID: 598175b7eacdbe04abb8dc7186e04778
+      m_SubObjectName: T_Collectibles_GrandOpening_GiftBox_Tier02
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: CLB_TheCarnivalSet_10
+    Reference:
+      m_AssetGUID: 598175b7eacdbe04abb8dc7186e04778
+      m_SubObjectName: T_Collectibles_GrandOpening_Hat_Tier02
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: CLB_TheCarnivalSet_11
+    Reference:
+      m_AssetGUID: 598175b7eacdbe04abb8dc7186e04778
+      m_SubObjectName: T_Collectibles_GrandOpening_RollerCoaster_Tier03
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: CLB_TheCarnivalSet_12
+    Reference:
+      m_AssetGUID: 598175b7eacdbe04abb8dc7186e04778
+      m_SubObjectName: T_Collectibles_GrandOpening_Popcorn_Tier03
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: CLB_TheCarnivalSet_13
+    Reference:
+      m_AssetGUID: 598175b7eacdbe04abb8dc7186e04778
+      m_SubObjectName: T_Collectibles_GrandOpening_JackInTheBox_Tier03
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: CLB_TheCarnivalSet_14
+    Reference:
+      m_AssetGUID: 598175b7eacdbe04abb8dc7186e04778
+      m_SubObjectName: T_Collectibles_GrandOpening_RollerCoaster_Tier04
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: CLB_TheCarnivalSet_15
+    Reference:
+      m_AssetGUID: 598175b7eacdbe04abb8dc7186e04778
+      m_SubObjectName: T_Collectibles_GrandOpening_Popcorn_Tier04
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: CLB_TheCarnivalSet
+    Reference:
+      m_AssetGUID: 598175b7eacdbe04abb8dc7186e04778
+      m_SubObjectName: T_Collectibles_SetCover_GrandOpening
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: background_tier_1
+    Reference:
+      m_AssetGUID: e4cda889703dd524aa67e684c3d8c0bc
+      m_SubObjectName: T_Profile_Collectible_ItemBackground_Large_Tier1
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: background_tier_2
+    Reference:
+      m_AssetGUID: e4cda889703dd524aa67e684c3d8c0bc
+      m_SubObjectName: T_Profile_Collectible_ItemBackground_Large_Tier2
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: background_tier_3
+    Reference:
+      m_AssetGUID: e4cda889703dd524aa67e684c3d8c0bc
+      m_SubObjectName: T_Profile_Collectible_ItemBackground_Large_Tier3
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+  - Id: background_tier_4
+    Reference:
+      m_AssetGUID: e4cda889703dd524aa67e684c3d8c0bc
+      m_SubObjectName: T_Profile_Collectible_ItemBackground_Large_Tier4
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0

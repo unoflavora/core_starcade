@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baf55f0a2c5568c4fbaad79969d83c56, type: 3}
+  m_Name: New Kill The Monster Sprite Data
+  m_EditorClassIdentifier: 
+  BulletShopData: {fileID: 11400000, guid: 6ccca98a69a664f41a1ce73d94604bb2, type: 2}
+  CurrencySpriteData: {fileID: 11400000, guid: 523a8399c6b91e841805fabcb1d27337, type: 2}
+  RewardSpriteData: {fileID: 11400000, guid: 3c8470ba71e63594cab4f36c991d205a, type: 2}
+  MonsterSpriteData:
+    NeutralPartsSprites:
+    - {fileID: 21300000, guid: a0bea3bdd961ea64aab09321132b186e, type: 3}
+    - {fileID: 21300000, guid: 49eb3fa4ce266424e81fcdeb952e97cb, type: 3}
+    - {fileID: 21300000, guid: c09f7bd0b4a21cb47acab40c32dbc962, type: 3}
+    - {fileID: 21300000, guid: 6ec57c79637c9104cb8daca09b7776e7, type: 3}
+    - {fileID: 21300000, guid: 2fb480e45082cb94ba340b911f84c911, type: 3}
+    - {fileID: 21300000, guid: bfd3c511eb031544e8f23d8a9f4b6c29, type: 3}
+    DamagedPartsSprites: []
+    DeadPartsSprites:
+    - {fileID: 21300000, guid: ea7498e10152bf84c883411c687cf2f0, type: 3}
+    - {fileID: 21300000, guid: 4bc6bbd0e7a26464b86b8cb3b90a0d69, type: 3}
+    - {fileID: 21300000, guid: f456f97a7a1dabe4db2e77cb78ede3c0, type: 3}
+    - {fileID: 21300000, guid: 77046c09e79874e478a25656f9b4d363, type: 3}
+    - {fileID: 21300000, guid: 343e37b210298554eb36571e56a5ce4e, type: 3}
+    - {fileID: 21300000, guid: 278e679252b7d9e40ac443c35d8b4bfe, type: 3}
+  WeaponSpriteData:
+    WeaponSprite: {fileID: 21300000, guid: 84ca0c0b8cce5734aabf02551f8b7abe, type: 3}
+    GemSprites:
+    - {fileID: 21300000, guid: a37d6e7054cd24e4fa325f804f8a98f9, type: 3}
+    - {fileID: 21300000, guid: cc91d786587fb9c4aa217a864bdd5bab, type: 3}
+    - {fileID: 21300000, guid: aa0e183d8c4009b40846892119b0f45d, type: 3}
+    - {fileID: 21300000, guid: 47df04cabd351684b89575cca5999d9e, type: 3}
+    - {fileID: 21300000, guid: 3d16fffdacbec674b9fe198133d64de1, type: 3}
+    - {fileID: 21300000, guid: 186628d218f698645a74374e4687c80e, type: 3}
+    - {fileID: 21300000, guid: 7578b4656b068cd4dbb6480867fd16d7, type: 3}
+    - {fileID: 21300000, guid: da47c675b3ed08f4089e5880ca137c85, type: 3}
+    - {fileID: 21300000, guid: b47dfea0dabf3ec4eabeeeecfc268565, type: 3}
+    - {fileID: 21300000, guid: 115a36938282dbf49826d9455541a57b, type: 3}

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f57e8d233ec6ab4fbb15bd0565826e8, type: 3}
+  m_Name: ErrorList
+  m_EditorClassIdentifier: 
+  ListStarcadeError:
+  - ErrorName: Default Error - Something wrong happen
+    ErrorCode: 99999
+    ErrorMessage: Something wrong happen
+    ErrorIcon: {fileID: 21300000, guid: 68b5d2f1c0cc5014eab9d07b53e5e537, type: 3}
+    ErrorType: 2
+  - ErrorName: Connection Error
+    ErrorCode: 0
+    ErrorMessage: Connection Error - 0
+    ErrorIcon: {fileID: 21300000, guid: f448165382ac3634a9525d8c83f35f09, type: 3}
+    ErrorType: 1
+  - ErrorName: Failed Auth - Login Credentials is not found or invalid
+    ErrorCode: 10303
+    ErrorMessage: Login Credentials is not found or invalid. Please re-login - 10303
+    ErrorIcon: {fileID: 21300000, guid: 68b5d2f1c0cc5014eab9d07b53e5e537, type: 3}
+    ErrorType: 0
+  - ErrorName: Failed Bind - Google Credentials is not found or invalid
+    ErrorCode: 10401
+    ErrorMessage: Google Credentials is not found or invalid - 10401
+    ErrorIcon: {fileID: 21300000, guid: 68b5d2f1c0cc5014eab9d07b53e5e537, type: 3}
+    ErrorType: 0
+  - ErrorName: Failed Bind - Email already used
+    ErrorCode: 10310
+    ErrorMessage: Email already used - 10310
+    ErrorIcon: {fileID: 21300000, guid: 68b5d2f1c0cc5014eab9d07b53e5e537, type: 3}
+    ErrorType: 0
+  - ErrorName: Failed Bind - Account already authenticated
+    ErrorCode: 10308
+    ErrorMessage: Account already authenticated - 10308
+    ErrorIcon: {fileID: 21300000, guid: 68b5d2f1c0cc5014eab9d07b53e5e537, type: 3}
+    ErrorType: 0
+  - ErrorName: Failed Claim - Collecting coin each 3 hours
+    ErrorCode: 10400
+    ErrorMessage: Collecting coin each 3 hours - 10400
+    ErrorIcon: {fileID: 21300000, guid: 68b5d2f1c0cc5014eab9d07b53e5e537, type: 3}
+    ErrorType: 0
+  - ErrorName: Plinko - Not enough balance
+    ErrorCode: 10
+    ErrorMessage: Not Enough Balance
+    ErrorIcon: {fileID: 21300000, guid: 68b5d2f1c0cc5014eab9d07b53e5e537, type: 3}
+    ErrorType: 0

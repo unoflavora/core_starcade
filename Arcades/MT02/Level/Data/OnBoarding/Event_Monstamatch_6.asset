@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bc34152da2db074dbedf1df2b5a6a9c, type: 3}
+  m_Name: Event_Monstamatch_6
+  m_EditorClassIdentifier: 
+  HideCharacter: 0
+  CharacterAnchoredPosition: {x: -700, y: -450}
+  CharacterExpression: {fileID: 11400000, guid: 4619a64fce42a05469b00c1ee1459480, type: 2}
+  CharacterExpressionId: 12
+  IsFlipped: 0
+  DialogText: You will get 10 chances to match the beads in each round.
+  HideDialog: 0
+  DialogWidthRatio: 0.35
+  DialogAnchoredPosition: {x: 450, y: 150}
+  DialogAnchorMin: {x: 0, y: 0}
+  DialogAnchorMax: {x: 0, y: 0}
+  HighlightedObjectIndex: 1
+  InteractType: 0
+  Delay: 0

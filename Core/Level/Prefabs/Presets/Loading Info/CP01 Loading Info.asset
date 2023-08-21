@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54bf47b70dd54ed8827574d5c70b9812, type: 3}
+  m_Name: CP01 Loading Info
+  m_EditorClassIdentifier: 
+  CollectionLabel: CP01
+  LoadingInfoDatas:
+  - Title: Starcade Coins
+    InfoDesc: Collect STAR*CADE coin and light up the STARCADE letter to get a jackpot
+      of coin tower.
+    InfoSprite: {fileID: 21300000, guid: 9c762005a0afe314ba30a36f85c6212b, type: 3}
+  - Title: Coin Types
+    InfoDesc: There are two types of coins you can find throughout the game. Standard
+      coins, and Starcade coins.
+    InfoSprite: {fileID: 21300000, guid: 6b754be1c820d924e986f42809f7bc13, type: 3}
+  - Title: Coin Jackpot
+    InfoDesc: Catch 10 coins into the moving basket to trigger the jackpot.
+    InfoSprite: {fileID: 21300000, guid: 0ba48dcbaf707d0498f053fe3972aa89, type: 3}

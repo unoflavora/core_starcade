@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 912ac7b7e66c76e458904c3660b60db4, type: 3}
+  m_Name: PetFragmentsDummy
+  m_EditorClassIdentifier: 
+  PetFragmentDatas:
+  - Id: pet_default_2d
+    Owned: 65
+    ObtainedDate: 07-Jul-2023 18:34:54
+    RequirementAmount: 50
+    PetId: pet_default_2d
+  - Id: pet_default_3d
+    Owned: 40
+    ObtainedDate: 07-Jul-2023 18:34:54
+    RequirementAmount: 50
+    PetId: pet_default_3d
+  - Id: pet_default_4d
+    Owned: 1000
+    ObtainedDate: 07-Jul-2023 18:34:54
+    RequirementAmount: 50
+    PetId: pet_default_4d
+  - Id: pet_default_1d
+    Owned: 35
+    ObtainedDate: 07-Jul-2023 18:34:54
+    RequirementAmount: 50
+    PetId: pet_default_1d
+  - Id: pet_default_1d
+    Owned: 35
+    ObtainedDate: 07-Jul-2023 18:34:54
+    RequirementAmount: 50
+    PetId: pet_default_1d

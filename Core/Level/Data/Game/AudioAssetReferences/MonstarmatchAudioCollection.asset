@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a97c7d0a71e442a9aae823a1f993dd2, type: 3}
+  m_Name: MonstarmatchAudioCollection
+  m_EditorClassIdentifier: 
+  LabelCollection: monstarmatch_audio
+  NewBgmCollection:
+  - id: BGM_Main_InGame
+    audioReference:
+      m_AssetGUID: 5d7f3ce0c3c51484982f70eea5f845fd
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: BGM_MiniGame1_PressAndLaunch
+    audioReference:
+      m_AssetGUID: f7c0699915b5052479ecd86fe3ac017c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: BGM_MiniGame2_KillTheMonster1
+    audioReference:
+      m_AssetGUID: c4cc130adf8a8f34d855ded1023a191d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: BGM_MiniGame2_KillTheMonster2
+    audioReference:
+      m_AssetGUID: 686846ade6d4bc342aafd98444022a6f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: BGM_MiniGame2_KillTheMonster3
+    audioReference:
+      m_AssetGUID: d11cd1ffc4e248845a14018d931f7ea0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  NewSfxCollection:
+  - id: SFXMM_001_ButtonStart
+    audioReference:
+      m_AssetGUID: 9a29af0674fe2724b8ba3f66e33e392e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_002_ObjectShattered
+    audioReference:
+      m_AssetGUID: 3f30d61873bbc7c40a5d7fc7099177c1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_003_ObjectPhrygianScale_1_C
+    audioReference:
+      m_AssetGUID: 3e04fe1e4316c8745b09bec10ed0ca22
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_003_ObjectPhrygianScale_2_Db
+    audioReference:
+      m_AssetGUID: b65c6f0aef6e9f14ab29844d957bd3b5
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_003_ObjectPhrygianScale_3_E
+    audioReference:
+      m_AssetGUID: 0d439a49713d88849ad15fc35f0a003a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_003_ObjectPhrygianScale_4_F
+    audioReference:
+      m_AssetGUID: 62857eaad7429bc4ea22160dcbc9c750
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_003_ObjectPhrygianScale_5_G
+    audioReference:
+      m_AssetGUID: 13783586dc4b620429a8f0b0370129cd
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_003_ObjectPhrygianScale_6_Ab
+    audioReference:
+      m_AssetGUID: 6900fa783a177c84994bbba44a22a96d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_003_ObjectPhrygianScale_7_Bb
+    audioReference:
+      m_AssetGUID: db57f30fedcdd8048b90ad84bfd8ba26
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_003_ObjectPhrygianScale_8_C
+    audioReference:
+      m_AssetGUID: 7cbf6c7eaf70d344485057f193869682
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_004_PuzzleJackpot_NotificationReward
+    audioReference:
+      m_AssetGUID: a3307e6f8ce53a84aa8becc58afb71d0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_005_PuzzlePieces
+    audioReference:
+      m_AssetGUID: 2e3caf6e01ce2634cbe358f243475f46
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_006_SpecialCoin_NotificationReward
+    audioReference:
+      m_AssetGUID: 468206759a8a7884f8c0aef3c35dbb9e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_007_SpecialCoin_Reach
+    audioReference:
+      m_AssetGUID: e747a1cd6e9685842953a588c19ffbef
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_008_MiniGame_NotificationReward
+    audioReference:
+      m_AssetGUID: e6ef732580ca0f144afa307cf50ef75d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_009_TreasureDiscovered
+    audioReference:
+      m_AssetGUID: eb4eb5d695e47e641b2dc119c065b174
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_010_GenieWish
+    audioReference:
+      m_AssetGUID: ab6ceb15849a3984f9c2a236fc2df51b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_011_DingReward
+    audioReference:
+      m_AssetGUID: 3f2a74d7bead9d6489e3443ff67e1fda
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_012_MiniGame1_Reward
+    audioReference:
+      m_AssetGUID: 46253f702a8dc484ab20a165524a1e10
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_013_MagicHit_Impact
+    audioReference:
+      m_AssetGUID: 8d2a854e388e20f498837b6b9efc689d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_013_MagicHit_SpectreShoot
+    audioReference:
+      m_AssetGUID: 8c75c73a744cb714996566a3831a2d6c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_014_MonsterHit
+    audioReference:
+      m_AssetGUID: cf1e7db649087334cae346be92a3e0b1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_015_AbracadabraMIX
+    audioReference:
+      m_AssetGUID: 1b92492ad6558f246829f1efc624ca88
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio
+  - id: SFXMM_016_LightsRouletteMonsterReward
+    audioReference:
+      m_AssetGUID: 2a5e72cfca28e2547a1b1704cc3aa0bd
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: monstarmatch_audio

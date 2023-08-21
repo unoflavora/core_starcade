@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2aff7fb61ee5ae43b2a82d12e282ac4, type: 3}
+  m_Name: GeneralBestDealSO
+  m_EditorClassIdentifier: 
+  ItemId: 
+  CooldownText: FREE COINS IN
+  Interval: 0
+  TextColor: {r: 0.52156866, g: 0.3019608, b: 0.05490196, a: 0}
+  Cost: 0
+  CostAssetId: 
+  CostSprite: {fileID: 0}
+  BackgroundAssetId: store_general_default_bestdeal
+  Background: {fileID: 0}
+  LabelAssetId: store_general_default_bestdeal_label
+  Label: {fileID: 0}

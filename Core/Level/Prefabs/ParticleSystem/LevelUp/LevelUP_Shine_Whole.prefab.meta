@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Starcade/Art/Particle System/Prefabs/Lobby/LevelUp/LevelUP_Shine_Whole.prefab.meta
+guid: 301f58538f6737b488d2f6728e7b2dba
+========
+guid: a5cfec6014e65284b8bc39a4cf3cabef
+>>>>>>>> f7e1ece7 (finish claim reward, add glow UI in close up of tier 4 pin):Assets/Starcade/Art/Textures/Lobby/User Profile/Collectible/Glow VFX.prefab.meta
+PrefabImporter:
+========
+guid: ea50911a1fc3f44469c203499793747d
+DefaultImporter:
+>>>>>>>> origin/153-starmatch-level-up-layer-fix:Assets/RiderFlow.UserData/Editor/Scenes/Bookmarks.Map/72b51eedf07fb744ab6d3ffb53af5f9e.userdata.meta
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

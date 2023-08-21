@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4ff2d4ec1af4014fb23ded0a21234f5, type: 3}
+  m_Name: RewardVFXSO
+  m_EditorClassIdentifier: 
+  _defaultParticleTexture: {fileID: 2100000, guid: 129ed7acf47685e4b891fa7464444511, type: 2}
+  _defaultIcon: {fileID: 2100000, guid: 31091115e4fb4c94b94fa92186f3c3ac, type: 2}
+  _goldParticleTexture: {fileID: 2100000, guid: 423d91016cf7be14599cee610e251d5b, type: 2}
+  _goldIcon: {fileID: 2100000, guid: 31091115e4fb4c94b94fa92186f3c3ac, type: 2}
+  _starParticleTexture: {fileID: 2100000, guid: d65c9cc5ab1fa7e4b9e826bf793ed3f5, type: 2}
+  _starIcon: {fileID: 2100000, guid: a23813d8741ddd845842b20884c2ec3f, type: 2}
+  _ticketParticleTexture: {fileID: 2100000, guid: d07f53aecfee5214e9a0ad4fbc07338a, type: 2}
+  _ticketIcon: {fileID: 2100000, guid: cd27983056f9bce4cb006ed7242eb51f, type: 2}
+  _lootBoxParticleTexture: {fileID: 2100000, guid: 423d91016cf7be14599cee610e251d5b, type: 2}
+  _lootBoxIcon: {fileID: 2100000, guid: 31091115e4fb4c94b94fa92186f3c3ac, type: 2}
+  _petParticleTexture: {fileID: 2100000, guid: 423d91016cf7be14599cee610e251d5b, type: 2}
+  _petBoxIcon: {fileID: 2100000, guid: 31091115e4fb4c94b94fa92186f3c3ac, type: 2}

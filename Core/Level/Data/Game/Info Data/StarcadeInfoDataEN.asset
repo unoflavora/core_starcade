@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cabeba552b64beba9e81eca912cb987, type: 3}
+  m_Name: StarcadeInfoDataEN
+  m_EditorClassIdentifier: 
+  ListInfoDatas:
+  - Type: 0
+    Desc: Login
+    Title: Success
+    Icon: {fileID: 21300000, guid: f7b72b36f610d634a8d1d2050b3a4c4f, type: 3}
+    IsCloseable: 1
+  - Type: 1
+    Desc: 
+    Title: Login Failed
+    Icon: {fileID: 21300000, guid: 68b5d2f1c0cc5014eab9d07b53e5e537, type: 3}
+    IsCloseable: 1
+  - Type: 2
+    Desc: Claim your reward in the events page
+    Title: Sign In Successful!
+    Icon: {fileID: 21300000, guid: f7b72b36f610d634a8d1d2050b3a4c4f, type: 3}
+    IsCloseable: 1
+  - Type: 3
+    Desc: 
+    Title: You Have Bound Your Account
+    Icon: {fileID: 21300000, guid: 662d0d3f23dbe174c90aa2f34553b352, type: 3}
+    IsCloseable: 1
+  - Type: 4
+    Desc: 
+    Title: Binding Account Failed
+    Icon: {fileID: 21300000, guid: ddcca5e1e1b0b364e92ade614367d64d, type: 3}
+    IsCloseable: 1
+  - Type: 5
+    Desc: Let's get them at the store!
+    Title: Insufficient Balance
+    Icon: {fileID: 21300000, guid: 68b5d2f1c0cc5014eab9d07b53e5e537, type: 3}
+    IsCloseable: 1
+  - Type: 6
+    Desc: 
+    Title: Do you want to purchase some coins?
+    Icon: {fileID: 21300000, guid: 68b5d2f1c0cc5014eab9d07b53e5e537, type: 3}
+    IsCloseable: 1
+  - Type: 7
+    Desc: Claim your reward in the poster page
+    Title: We Received Your Feedback
+    Icon: {fileID: 21300000, guid: f7b72b36f610d634a8d1d2050b3a4c4f, type: 3}
+    IsCloseable: 1
+  - Type: 8
+    Desc: 
+    Title: Thank you for liking us on Facebook
+    Icon: {fileID: 21300000, guid: f7b72b36f610d634a8d1d2050b3a4c4f, type: 3}
+    IsCloseable: 1
+  - Type: 9
+    Desc: 
+    Title: Thank you for rating us
+    Icon: {fileID: 21300000, guid: f7b72b36f610d634a8d1d2050b3a4c4f, type: 3}
+    IsCloseable: 1
+  - Type: 10
+    Desc: "You\u2019re all set to go! Please enjoy your rewards"
+    Title: 
+    Icon: {fileID: 21300000, guid: c20cd8f73cb8caa4ba0b26460ad86e74, type: 3}
+    IsCloseable: 1
+  - Type: 11
+    Desc: Your session has ended
+    Title: Time's Up!
+    Icon: {fileID: 21300000, guid: bc84880c448c4124aaf81907106adea7, type: 3}
+    IsCloseable: 0
+  ListInfoErrorDatas:
+  - Type: 0
+    Desc: No Internet Connection Found
+    Title: Whoops!
+    Icon: {fileID: 21300000, guid: f448165382ac3634a9525d8c83f35f09, type: 3}
+    IsCloseable: 0
+  - Type: 1
+    Desc: Please check back in a few minutes
+    Title: Maintenance is in progress
+    Icon: {fileID: 21300000, guid: 02d18ac446bc7b24a8bcb6726a039d51, type: 3}
+    IsCloseable: 0
+  - Type: 2
+    Desc: "Let\u2019s experience the next level of fun with our newest update!"
+    Title: New Version Available
+    Icon: {fileID: 21300000, guid: f1746d4704ca6d548b8451a7d514ab8f, type: 3}
+    IsCloseable: 0
+  - Type: 3
+    Desc: Your session has expired
+    Title: 
+    Icon: {fileID: 21300000, guid: 68b5d2f1c0cc5014eab9d07b53e5e537, type: 3}
+    IsCloseable: 0
+  - Type: 4
+    Desc: Something went wrong
+    Title: 
+    Icon: {fileID: 21300000, guid: 68b5d2f1c0cc5014eab9d07b53e5e537, type: 3}
+    IsCloseable: 0
+  - Type: 5
+    Desc: Something went wrong
+    Title: 
+    Icon: {fileID: 21300000, guid: 68b5d2f1c0cc5014eab9d07b53e5e537, type: 3}
+    IsCloseable: 0
+  ListInfoWarningDatas:
+  - Type: 0
+    Desc: 
+    Title: Time Out
+    Icon: {fileID: 21300000, guid: bc84880c448c4124aaf81907106adea7, type: 3}
+    IsCloseable: 0
+  - Type: 1
+    Desc: Are you sure want to
+    Title: Log Out?
+    Icon: {fileID: 21300000, guid: 68b5d2f1c0cc5014eab9d07b53e5e537, type: 3}
+    IsCloseable: 0
+  - Type: 2
+    Desc: "You are logged in as guest, your data will lost if you\u2019re log out. 
+      Are you sure you want to logout ?"
+    Title: 
+    Icon: {fileID: 21300000, guid: 68b5d2f1c0cc5014eab9d07b53e5e537, type: 3}
+    IsCloseable: 0
+  - Type: 3
+    Desc: Name Invalid
+    Title: 
+    Icon: {fileID: 21300000, guid: 68b5d2f1c0cc5014eab9d07b53e5e537, type: 3}
+    IsCloseable: 0

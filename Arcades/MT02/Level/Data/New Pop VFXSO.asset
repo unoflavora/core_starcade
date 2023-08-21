@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22a6c3c31915ac94aa2e3507b13cf909, type: 3}
+  m_Name: New Pop VFXSO
+  m_EditorClassIdentifier: 
+  _vfxList:
+  - {fileID: 857837020413268275, guid: ba9ebf6f123ce514495aaf40ce7181be, type: 3}
+  - {fileID: 857837020413268275, guid: a500c3eb898399a4cab6e3b14ab51643, type: 3}
+  - {fileID: 857837020413268275, guid: fc2b2e6aefdee924db87ab62a6571849, type: 3}
+  - {fileID: 857837020413268275, guid: eb46fde7f9f2e9942a2591760d8d187f, type: 3}

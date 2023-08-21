@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cee22f32cc5a04b4c86ea4a8ceb3cf1f, type: 3}
+  m_Name: Roulette Reward Icon
+  m_EditorClassIdentifier: 
+  GoldCoinTier1: {fileID: 21300000, guid: 2e99d45b429833d4fbc7e3af6e788a64, type: 3}
+  GoldCoinTier2: {fileID: 21300000, guid: bd79038f151536149b6c4093bfe86964, type: 3}
+  GoldCoinTier3: {fileID: 21300000, guid: fd9843b7c16f95e41979b4e3a8edbd7c, type: 3}
+  GoldCoinTier4: {fileID: 21300000, guid: a017e01ca3eb58b4eb57c798719fb806, type: 3}
+  StarCoinTier1: {fileID: 21300000, guid: 93c140040fef08a47888d7c787cbbce7, type: 3}
+  StarCoinTier2: {fileID: 21300000, guid: e1144afa645bfdb4a865f4947e0f0487, type: 3}
+  StarCoinTier3: {fileID: 21300000, guid: 449029c905a75a84caf7c4ecf860ee0a, type: 3}
+  StarCoinTier4: {fileID: 21300000, guid: 1740b73caa38fae4facc748983fff63c, type: 3}
+  StarTicketTier1: {fileID: 21300000, guid: a70d3dbdbc349094f84af40a94ef4d74, type: 3}
+  StarTicketTier2: {fileID: 21300000, guid: d62c453b7759c9743a986d1bf14676ec, type: 3}
+  StarTicketTier3: {fileID: 21300000, guid: e616b1c706b10be4a816bd7c855919b2, type: 3}
+  StarTicketTier4: {fileID: 21300000, guid: 063ddfa8bb8c6974282255a7ec846376, type: 3}
+  SkipStep: {fileID: 0}

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: PetAdventureBox Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: PetAdventureBox
+  m_TableCollectionNameGuidString: 82be2a535c895c44a913b7ec9bc14eae
+  m_Entries:
+  - m_Id: 12019085312
+    m_Key: abx_common
+    m_Metadata:
+      m_Items: []
+  - m_Id: 587603423232
+    m_Key: abx_rare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 641223405568
+    m_Key: abx_epic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 662966677504
+    m_Key: abx_legendary
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2960733323273437186
+  references:
+    version: 2
+    RefIds:
+    - rid: 2960733323273437186
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1689220396302

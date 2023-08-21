@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b61bf3a55f98c44093f2b7e29046d25, type: 3}
+  m_Name: MonstamatchSpriteData
+  m_EditorClassIdentifier: 
+  NightBackground: {fileID: 21300000, guid: 049a030c13c7ca443b6a2d2706467c55, type: 3}
+  DayBackground: {fileID: 21300000, guid: 767a48b212d0eab4091af08521b14d91, type: 3}
+  NightBackgroundCurtain: {fileID: 21300000, guid: 4e347426a1b5da04aae06629608ebe60, type: 3}
+  DayBackgroundCurtain: {fileID: 21300000, guid: 3e37ee76a8a6293428357f8321814d94, type: 3}
+  NightMovingCurtain: {fileID: -1936075322, guid: 607e743e3b7ec70408b715e98bf80e7c, type: 3}
+  DayMovingCurtain: {fileID: -1936075322, guid: 607e743e3b7ec70408b715e98bf80e7c, type: 3}
+  DayPuzzleBackground: {fileID: 134312867, guid: 4012562cedd64c846b0718bbf0ff4172, type: 3}
+  NightPuzzleBackground: {fileID: 21300000, guid: 9a264dbab9d42204ca144a9dfca6bcc5, type: 3}
+  DayReachCoinBackground: {fileID: 21300000, guid: 106a50286879cab40bcf9660558c80ed, type: 3}
+  NightReachCoinBackground: {fileID: 21300000, guid: f57b670a220ffff4793970cfda817203, type: 3}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54bf47b70dd54ed8827574d5c70b9812, type: 3}
+  m_Name: MT01 Loading Info
+  m_EditorClassIdentifier: 
+  CollectionLabel: MT01
+  LoadingInfoDatas:
+  - Title: Cosmostone
+    InfoDesc: Cosmostone is the special stone you can find in the game. Match the
+      5 of them and get an instant jackpot!
+    InfoSprite: {fileID: 21300000, guid: 4d4089e357ece1f44b8bcd32d3251a7d, type: 3}
+  - Title: Substitute
+    InfoDesc: You can match Subtitute with all objects except the Cosmostones.
+    InfoSprite: {fileID: 21300000, guid: c28e46a8b63145c488f5c50b67ac9ceb, type: 3}
+  - Title: Cosmostone
+    InfoDesc: "You can\u2019t match Cosmostones with other objects. Cosmostones can
+      only match with other Cosmostones."
+    InfoSprite: {fileID: 21300000, guid: 4d4089e357ece1f44b8bcd32d3251a7d, type: 3}

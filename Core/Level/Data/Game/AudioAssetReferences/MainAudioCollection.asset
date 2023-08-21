@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a97c7d0a71e442a9aae823a1f993dd2, type: 3}
+  m_Name: MainAudioCollection
+  m_EditorClassIdentifier: 
+  LabelCollection: main_audio
+  NewBgmCollection:
+  - id: bgm_title
+    audioReference:
+      m_AssetGUID: d5b094ed446d5a04ba2972050f4955ba
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  NewSfxCollection:
+  - id: button_general
+    audioReference:
+      m_AssetGUID: 388c4c041f4afcf4a9bf380981e0df2a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: button_negative
+    audioReference:
+      m_AssetGUID: 8f680fa8c448fb14d9cc844a6fdb8e82
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: button_play
+    audioReference:
+      m_AssetGUID: 080294830811f1a488ad03ec8086535a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: button_tab
+    audioReference:
+      m_AssetGUID: 2ddb0dd42e8c1cc4f9df15f04ce90eef
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: button_unavailable
+    audioReference:
+      m_AssetGUID: 8f680fa8c448fb14d9cc844a6fdb8e82
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: button_close
+    audioReference:
+      m_AssetGUID: 75c216559fd2e66419d10ac12a70f397
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: button_open
+    audioReference:
+      m_AssetGUID: f25b4ded4bb187149bec1a8b964ce96b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: number_counter
+    audioReference:
+      m_AssetGUID: bdea305fdefae4149be7a072331cba9d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio

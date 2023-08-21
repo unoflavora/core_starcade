@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f90f1f38bfb6b3646b4cfe7c0fc1e444, type: 3}
+  m_Name: Matchthree Arcade Data
+  m_EditorClassIdentifier: 
+  ArcadeName: Star Match
+  ArcadeSlug: MT01
+  ArcadeDescription: The perfect combo of best video slots and casual games you can
+    experience. Enjoy the addictive slot machine game with the unique pay line configurations
+    and special features.
+  ArcadeIcon: {fileID: 21300000, guid: 458e492eb8bd1de4482307f490cff8be, type: 3}
+  ArcadeMachine: {fileID: 21300000, guid: 56d084bdb60258d4b81e13bc61835f16, type: 3}
+  ArcadeVideo: {fileID: 32900000, guid: a46c171fcc137624983e5e569709d04a, type: 3}
+  AssetId: 2
+  ArcadeSceneData: {fileID: 11400000, guid: 9125429e9e212f7488d86cd0050843b4, type: 2}
+  IsHaveTutorial: 1
+  IsLocked: 0

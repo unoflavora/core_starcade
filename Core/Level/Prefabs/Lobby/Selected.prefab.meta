@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Starcade/Core/Arts/Animation/VFXAnimation/A_LoadingStar.anim.meta
+guid: adec0ef3b8aadae46863236582f92616
+NativeFormatImporter:
+========
+guid: 2b4c91d3537cae84aad90f13d6b5623a
+PrefabImporter:
+>>>>>>>> 18870b014 (implement scrollable tab):Assets/Starcade/Core/Level/Prefabs/Lobby/Selected.prefab.meta
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

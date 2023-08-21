@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bc34152da2db074dbedf1df2b5a6a9c, type: 3}
+  m_Name: Lobby1
+  m_EditorClassIdentifier: 
+  Id: 0
+  Character: {fileID: 21300000, guid: c0086a4324689fc4bb0f7147c84ecaea, type: 3}
+  CharacterPos: {x: -760, y: -800}
+  OnBoardingDialog: Doktah, please sit. I'm just here to check up on your body's
+    state, so don't be so stiff. If there are any irregularities, please tell me
+    in full. Meaning? We'll set aside what it means to Rhodes Island for now. To
+    me, the meaning it holds is quite significant.
+  OnBoardingDialogPos: {x: -450, y: 180}

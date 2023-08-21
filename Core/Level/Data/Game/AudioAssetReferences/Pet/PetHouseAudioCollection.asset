@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a97c7d0a71e442a9aae823a1f993dd2, type: 3}
+  m_Name: PetHouseAudioCollection
+  m_EditorClassIdentifier: 
+  LabelCollection: pethouse_audio
+  NewBgmCollection: []
+  NewSfxCollection:
+  - id: sfxpet_008
+    audioReference:
+      m_AssetGUID: cf510194f8842414e9ff397c589f47e4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: 
+  - id: sfxpet_009
+    audioReference:
+      m_AssetGUID: 824af51b5046b8b4684a3ec0e7dcd647
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: 
+  - id: sfxpet_010
+    audioReference:
+      m_AssetGUID: 2e119d41d982ccb4680655732a388a42
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: 
+  - id: sfxpet_011
+    audioReference:
+      m_AssetGUID: 1e457ca61118031458c399e395b2a2a3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: 
+  - id: sfxpet_012
+    audioReference:
+      m_AssetGUID: 0b35bc9293f4f7547a12bfea6d53b361
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: 
+  - id: sfxpet_023
+    audioReference:
+      m_AssetGUID: af80adcad94645748b0e1f11356dc84f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: 

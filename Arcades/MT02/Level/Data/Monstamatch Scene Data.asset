@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504a2cca82446644d8c3baf10cf47b68, type: 3}
+  m_Name: Monstamatch Scene Data
+  m_EditorClassIdentifier: 
+  SceneKey: MT02
+  ScenePath: 
+  SceneReference:
+    m_AssetGUID: e7ce1b1ad94283f4fad8e15bc3ec6a55
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  IsAddressable: 1
+  TargetSceneOrientation: 2
+  Background: {fileID: 21300000, guid: 767a48b212d0eab4091af08521b14d91, type: 3}

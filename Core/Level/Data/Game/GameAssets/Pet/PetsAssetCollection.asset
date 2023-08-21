@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe1316b11517004fb22bea3adbd666d, type: 3}
+  m_Name: PetsAssetCollection
+  m_EditorClassIdentifier: 
+  Label: pet_objects
+  Collection:
+  - Id: pet_default
+    Reference:
+      m_AssetGUID: ee973d76d1eb68a49982b6257d95dfb9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - Id: pet_default_dummy
+    Reference:
+      m_AssetGUID: aff2e48c9dca80844b43e95219523685
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 1

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f90f1f38bfb6b3646b4cfe7c0fc1e444, type: 3}
+  m_Name: Monstamatch Arcade Data
+  m_EditorClassIdentifier: 
+  ArcadeName: Wishful Wonder
+  ArcadeSlug: MT02
+  ArcadeDescription: "Immerse yourself in the magical world full of wonders. Let\u2019s
+    match the beads and tell your wish! "
+  ArcadeIcon: {fileID: 21300000, guid: 0a9a55c9d5adea949b09277987728ecf, type: 3}
+  ArcadeMachine: {fileID: 21300000, guid: 384fe4d4e1a809e499f62d0b595843a5, type: 3}
+  ArcadeVideo: {fileID: 32900000, guid: e52ec9b93919be842838712f36359b59, type: 3}
+  AssetId: 4
+  ArcadeSceneData: {fileID: 11400000, guid: 265c6edb196a50f478b65730fae51889, type: 2}
+  IsHaveTutorial: 1
+  IsLocked: 0

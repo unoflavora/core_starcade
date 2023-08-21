@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a97c7d0a71e442a9aae823a1f993dd2, type: 3}
+  m_Name: GachaAudioCollection
+  m_EditorClassIdentifier: 
+  LabelCollection: gacha_audio
+  NewBgmCollection:
+  - id: wait_for_input
+    audioReference:
+      m_AssetGUID: d756341879489564390d5ca29cb4bc4b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: bgm_lootbox
+    audioReference:
+      m_AssetGUID: 248ef1f99aa04a449845ad497f257ae6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  NewSfxCollection:
+  - id: intro
+    audioReference:
+      m_AssetGUID: 33c8212891404da49b0003633f24458b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: drop_chest
+    audioReference:
+      m_AssetGUID: baf827ccb4f54bd448e299a0226966f5
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: drop_box
+    audioReference:
+      m_AssetGUID: 933343f5a76f9254cab9d81e5eec5d17
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: glow_object
+    audioReference:
+      m_AssetGUID: 626bc9b27a23a024f9f3109121778638
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: open_chest
+    audioReference:
+      m_AssetGUID: 27797a48b6b06e24981d5db7cd2f549a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: star_ambience
+    audioReference:
+      m_AssetGUID: 7de10eda85df17a4792bc42c93eb80a3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: petbox_star_appear
+    audioReference:
+      m_AssetGUID: 997713a0d9f299b47b892de4af1c423e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: lootbox_portal_appear
+    audioReference:
+      m_AssetGUID: 5f6fd2456f48359418836344ecea723e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: lootbox_portal_charge
+    audioReference:
+      m_AssetGUID: 2db34093ecdca0148b3fdcbcb07394b8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: lootbox_box_appear
+    audioReference:
+      m_AssetGUID: 36cddc72fae999f439ca776b1500cbcd
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: lootbox_box_popout
+    audioReference:
+      m_AssetGUID: 8eaa4497190bae1419ea6ef9a3af3ece
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: petbox_box_hype
+    audioReference:
+      m_AssetGUID: 3dd8705168116a44e863c47c61dfe01b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: lootbox_box_open
+    audioReference:
+      m_AssetGUID: 9176b73db9ae3ba4daa1beedf81e3d14
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: lootbox_box_result
+    audioReference:
+      m_AssetGUID: 377312695b653f048af72673841cb78b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: lootbox_box_drop
+    audioReference:
+      m_AssetGUID: 353479f601ca2e040bcfb61aacc3626b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: lootbox_rumble
+    audioReference:
+      m_AssetGUID: a2859d4ac0caaac4cbc7489ecc074312
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: lootbox_open
+    audioReference:
+      m_AssetGUID: 9176b73db9ae3ba4daa1beedf81e3d14
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: lootbox_result
+    audioReference:
+      m_AssetGUID: 377312695b653f048af72673841cb78b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio
+  - id: lootbox_reward_popup
+    audioReference:
+      m_AssetGUID: 0410ec26c41530044822832ec3fe109a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: gacha_audio

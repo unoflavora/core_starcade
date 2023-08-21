@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a97c7d0a71e442a9aae823a1f993dd2, type: 3}
+  m_Name: GeneralAudioCollection
+  m_EditorClassIdentifier: 
+  LabelCollection: general_audio
+  NewBgmCollection:
+  - id: bgm_lobby
+    audioReference:
+      m_AssetGUID: 2e67e8f8448ff4c4cba54c4f7ae140f3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  NewSfxCollection:
+  - id: notification_coin
+    audioReference:
+      m_AssetGUID: d743e17e32c3a044a8a0231acf5b0819
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: reward_coin
+    audioReference:
+      m_AssetGUID: 145b509f2e6ae6e4a88e406a69609ba8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: goal_jackpot
+    audioReference:
+      m_AssetGUID: 257fa3c497f473b4e8c7aef01e33c31c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: balance_counting_once
+    audioReference:
+      m_AssetGUID: 0b894a42b9b87024f85f87452e1b636d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: balance_counting_end
+    audioReference:
+      m_AssetGUID: 0059396a7d39b284aa52272bb4147633
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: mailbox_button_claim
+    audioReference:
+      m_AssetGUID: 13e7afd36b48d9e4784dcc0bb0ae0e68
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: mailbox_button_open
+    audioReference:
+      m_AssetGUID: d92e20fd5343bc642b08a2933fca24fc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: ui_claim_reward
+    audioReference:
+      m_AssetGUID: 4b24ee8265124fb4d979f8a7bb73a19d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: ui_goldmachine_play
+    audioReference:
+      m_AssetGUID: 8367d90a6dd9c614aa37118ee32b9737
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: ui_shop_buy
+    audioReference:
+      m_AssetGUID: 13d01e768866f024e824401b3b298aca
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: ui_starmachine_play
+    audioReference:
+      m_AssetGUID: be80946686076aa46a1a312de7921001
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: ui_swipe
+    audioReference:
+      m_AssetGUID: de8ebbb0cd284eb49b1c9a03ab4062a8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: ui_tic_swipe
+    audioReference:
+      m_AssetGUID: f319ef3dd589d2d40ac612b28eafe8f3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
+  - id: reward_pop_up
+    audioReference:
+      m_AssetGUID: 377312695b653f048af72673841cb78b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    label: general_audio
